@@ -1,0 +1,13 @@
+/.DS_Store
+**/.DS_Store
+
+# Python/venv (lab1)
+lab1/venv/
+lab1/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Prolog temporary files (SWI may create these)
+*.qlf
+*.tmp
+
